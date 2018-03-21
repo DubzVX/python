@@ -28,7 +28,7 @@ target_webpage = ""
 # Here, we use the GET method but you can use POST method too
 r = request.get(target_webpage)
 
-# If we print r we can see the status (eg. "<Response [200]>" if it's ok, if it's "<Response [404]>" or error something like that it doesn't work)
+# If we print r we can see the status (eg. "<Response [200]>" if it's ok, if it's "<Response [504]>" or error something like that it doesn't work)
 print (r)
 
 # If you want print your content of your webpage use r.text
