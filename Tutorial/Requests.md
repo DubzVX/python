@@ -1,7 +1,7 @@
 # Requests
 
 This tutorial is for beginner in python.
-</br>You will see how to collect information on web page with the librairy requests.
+</br>You will see how to collect information on web page with the library requests.
 ## Installation :
 ```sh
 pip install requests
